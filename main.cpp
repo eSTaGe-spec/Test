@@ -5,8 +5,7 @@
 
 
 
-//pow-возведение в степень
-
+//pow-возведение в степень(exponentiation)
 
 using namespace std;
 
